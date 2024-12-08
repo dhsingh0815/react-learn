@@ -1,6 +1,7 @@
 # react-learn
 Created with CodeSandbox
-Folder Thinking-in-react: On design in react
+
+## Folder Thinking-in-react: On design in react
 You're not alone! Making a functional mental model with React takes some time.
 
 One way to visualize a react component is "a fancy html generator". After all the state updates and calculations are settled, the final output is an html string that will be rendered to the page.
